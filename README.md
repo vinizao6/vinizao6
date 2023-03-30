@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação.
 
-<!--
-**vinizao6/vinizao6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando C# e .net core.
+
+<div>
+<a href="https://https://github.com/vinizao6">
+<img height = "180cm" scr = "https://github-readme-stats.vercel.app/api?username=vinizao6&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
+<img height= "180" scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinizao6&layout=compact&langs_count=16&theme=matrix"/>
+</div>
+<div>
+<img alt = "gabfofa" scr = "https://tenor.com/bqJn2.gif">
+</div>
+
