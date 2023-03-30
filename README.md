@@ -10,6 +10,6 @@
 <img height= "180" scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinizao6&layout=compact&langs_count=16&theme=matrix"/>
 </div>
 <div>
-<img alt = "gabfofa" scr = "https://tenor.com/bqJn2.gif">
+<img alt = "gabfofa" scr = "https://discord.com/channels/1044609669634736190/1044609670385500164/1090804059746877480">
 </div>
 
