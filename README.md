@@ -1,4 +1,4 @@
-### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação.
+### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação na Faculdade Assis Gurgacz Toledo.
 
 
 
