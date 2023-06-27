@@ -1,7 +1,5 @@
 ### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação na Faculdade Assis Gurgacz Toledo.
 
-<link rel="stylesheet" type="text/css" href="https://github.com/vinizao6/style.css.git">
-
 - Estou estudando C# e .net core.
 - contato: viniciustomcix@gmail.com
 - 
