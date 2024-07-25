@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizao6&hide_progress=true)
 
-![gab](https://github.com/user-attachments/assets/1ae9fe9a-e4ee-414b-ab66-5f0866adecc4)](https://i.kym-cdn.com/photos/images/newsfeed/001/893/437/822.gif)
+![travis](https://i.kym-cdn.com/photos/images/newsfeed/001/893/437/822.gif)
 
 
 
