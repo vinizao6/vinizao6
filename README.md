@@ -8,5 +8,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinizao6&hide_progress=true)
 
-![gab](https://64.media.tumblr.com/d5ac79eef2307b701f207532ca2294cd/tumblr_oojp2nWXb01tydz8to1_540.gif)
+![gab]([https://64.media.tumblr.com/d5ac79eef2307b701f207532ca2294cd/tumblr_oojp2nWXb01tydz8to1_540.gif](https://media.tenor.com/PDfIH27__gkAAAAd/no-more-heroes-no-more-heroes3.gif))
 
