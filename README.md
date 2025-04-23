@@ -1,4 +1,4 @@
-### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação na Faculdade Assis Gurgacz Toledo.
+### Olá, meu nome é Vinicius e sou um estudante de Sistemas de Informação.
 
 - Estou estudando C# e .net core.
 - contato: viniciustomcix@gmail.com
